@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-//ahhihihihih
+//ahhihihihihb noooooooooooooo
 namespace Bai2ThucTap
 {
     internal class Program
